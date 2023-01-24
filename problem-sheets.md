@@ -1,7 +1,7 @@
 ---
 layout: default
 title: problem-sheets
-permalink: /about/
+permalink: /problem-sheets/
 ---
 
 # Problem Sheets
