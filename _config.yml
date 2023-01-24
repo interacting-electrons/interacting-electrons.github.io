@@ -8,5 +8,5 @@ url: "https://interacting-electrons.github.io" # the base hostname & protocol fo
 github_username:  interacting-electrons
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal
 
