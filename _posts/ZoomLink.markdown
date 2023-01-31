@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 You can use this link to join the class! 
-[link]https://zoom.us/j/9047799945?pwd=U0RUOVVvVGZEZEhvWCtVcWZjRnhiZz09
+https://zoom.us/j/9047799945?pwd=U0RUOVVvVGZEZEhvWCtVcWZjRnhiZz09
