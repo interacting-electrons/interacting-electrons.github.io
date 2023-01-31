@@ -8,6 +8,6 @@ This is the website for Andy's course on interacting electrons. Content will be 
 ## News
 <ul>
   {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a><br/>
   {% endfor %}
 </ul>
